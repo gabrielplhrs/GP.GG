@@ -21,6 +21,7 @@ header h2, #barraPesquisar {
     margin: 0px;
 }
 
+
 #barraPesquisar input {
     background-color: white;
     border-radius: 12px;
@@ -47,17 +48,39 @@ section button:hover {
 #perfilJogador, #winrate, #elo, #historico {
     background-color: white;
     border: 1px solid black;
-    border-radius: 10px;
+    /* border-radius: 10px; */
 }
 
 #winrate, #elo {
-    max-width:max-content;
-    padding: 40px;
+    width:100%;
+}
+
+#winrate h3 {
+    margin: 5px;
+}
+
+#elo h3 {
+    margin: 5px;
+}
+
+#winrateGrafico, #eloGrafico {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 #perfilJogador {
-    width: 300px;
-    padding: 40px;
+    width: 75vh;
+}
+
+#informacoes {
+    padding: 20px;
+}
+
+#graficos {
+    display: flex;
+    flex-direction: row;
 }
 
 #historico {
@@ -70,11 +93,4 @@ section {
     justify-content: center;
     flex-direction: row;
     margin-top: 35px;
-}
-
-#statistic, #historico {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: row;
-}
+} 

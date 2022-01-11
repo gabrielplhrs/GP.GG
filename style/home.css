@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Readex+Pro:wght@500&display=swap');
 
 * {
-    background-color: blueviolet;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Readex Pro', sans-serif;
+}
+
+body {
+    background-color: blueviolet;
 }
 
 header div {
