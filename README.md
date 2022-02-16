@@ -31,4 +31,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ## 📝 Licença
 Este projeto esta sobe a licença MIT.
-Feito por <a href="www.google.com">teste<a/> 👋🏽 Entre em contato!
+Feito por <a href="gabrielplhrs">mim<a/> 👋🏽 Entre em contato!
