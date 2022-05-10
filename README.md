@@ -3,12 +3,12 @@
 GPGG é um aplicação web que permite os jogadores de League of Legends fazerem consultas sobre suas estatísticas de suas partidas
 
 Os jogadores poderão consultar na plataforma:
-- Taxas de vitória
-- Histórico de partidas
-- Elos nas últimas temporadas
-- Level do jogador
+- Win rate
+- Match History
+- Last seasons rating
+- Player level
 
-Aplicação desenvolvida e oferecida por Gabriel Palhares. Este projeto não possui fins lucrativos.
+Application developed and offered by Gabriel Palhares. This project is not for profit.
 
 ## 🎨 Layout
 The layout of the application built in Figma:
